@@ -1,6 +1,4 @@
 # Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn
-## NAME: S.SANJAY BALAJI
-## REGISTER NUMBER: 212223240149
 ## AIM:
 To write a program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
 
